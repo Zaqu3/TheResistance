@@ -53,4 +53,4 @@ onto your local machine
 
 ###############################################################
 
-If you have any problems with the following instructions just let me know and i can try to help the best I can until we are able to meet. :D
+If you have any problems with the above instructions just let me know and i can try to help the best I can until we are able to meet. :D
